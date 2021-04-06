@@ -7,5 +7,7 @@ This a General Login Registration project.Which has Login page,Register page,Abo
 
 # Folders
   DataBase:This folder contains Database and Schema and Scripts. 
+  
   Screenshots:This folder contains Screenshots of Web Application Pages.
+  
   Login-Registration_Form:This folder contains Web Application code.
