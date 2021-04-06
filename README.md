@@ -6,8 +6,9 @@ This a General Login Registration project.Which has Login page,Register page,Abo
   Jsp,Servlet,Jdbc,Html,Css and Mysql
 
 # Folders
-  DataBase:This folder contains Database and Schema and Scripts. 
+
+  DataBase : This folder contains Database and Schema and Scripts. 
   
-  Screenshots:This folder contains Screenshots of Web Application Pages.
+  Screenshots : This folder contains Screenshots of Web Application Pages.
   
-  Login-Registration_Form:This folder contains Web Application code.
+  Login-Registration_Form : This folder contains Web Application code.
